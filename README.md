@@ -26,14 +26,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoelsiahaan551&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelsiahaan551&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
+📫 Hubungi Saya
+<p align="center"> <a href="https://github.com/yoelsiahaan551"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:yoelsiahaan551@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/yoelsiahaan"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 
 ## 🌟 Tentang Saya
 
