@@ -33,21 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoelsiahaan551&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelsiahaan551&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
----
 
 ## 🌟 Tentang Saya
 
-```text
-🔭 Saat ini sedang mengerjakan project mobile & web
-🌱 Terus belajar dan explore teknologi baru
-👯 Terbuka untuk kolaborasi di project open source
-💬 Tanya aku tentang React, React Native, atau Tailwind CSS
-🎨 UI/UX dengan Figma adalah salah satu passionku
-⚡ Fun fact: Kode yang bersih adalah doa yang tak terucapkan
+uknown
