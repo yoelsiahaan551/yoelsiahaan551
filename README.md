@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=200&section=header&text=Yoel%20Siahaan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20|%20Mobile%20Developer%20|%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=16" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=534AB7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Yoel+%F0%9F%91%8B;Fullstack+Developer;Mobile+Developer;UI%2FUX+Enthusiast;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
