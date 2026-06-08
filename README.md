@@ -10,26 +10,12 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=yoelsiahaan&color=534AB7&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/yoelsiahaan?label=Follow&style=flat-square&color=534AB7)](https://github.com/yoelsiahaan)
 
 </div>
 
 ---
 
 ## 🚀 Tentang Saya
-
-```javascript
-const yoel = {
-  name: "Yoel Siahaan",
-  role: ["Fullstack Developer", "Mobile Developer", "UI/UX Enthusiast"],
-  languages: ["JavaScript", "TypeScript", "Dart", "Go", "Python"],
-  askMeAbout: ["Web Dev", "Mobile App", "UI Design", "Tech"],
-  currentlyLearning: "Cloud Architecture & DevOps",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
 
 ---
 
