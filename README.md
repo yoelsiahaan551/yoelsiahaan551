@@ -1,4 +1,4 @@
-APAKAH KAMU BISA BIKIN TMPILANG ANIMASI GERAK GERAK <div align="center">
+<div align="center">
 # 🚀 Yoel Siahaan
 ### *Fullstack Developer | Mobile Developer | UI/UX Enthusiast*
 [![GitHub followers](https://img.shields.io/github/followers/yoelsiahaan551?label=Follow&style=social)](https://github.com/yoelsiahaan551)
