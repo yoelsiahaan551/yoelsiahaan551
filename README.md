@@ -1,7 +1,4 @@
 # 🚀 Yoel Siahaan
-
-[![GitHub followers](https://img.shields.io/github/followers/yoelsiahaan551?label=Follow&style=social)](https://github.com/yoelsiahaan551)
-
 ---
 
 ## 💻 Tech Stack
